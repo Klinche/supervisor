@@ -1,4 +1,4 @@
-FROM klinche/php7-fpm
+FROM klinche/php-fpm
 
 LABEL maintainer "dbrooks@klinche.com"
 
